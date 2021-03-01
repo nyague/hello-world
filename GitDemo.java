@@ -1,5 +1,5 @@
 /*****
- * Ndeye Yague
+ *Ndeye Yague
  ******/
 public class GitDemo {
     
